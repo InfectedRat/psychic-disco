@@ -9,4 +9,13 @@ function testfucksum(a, b) {
     return a+b;
 }
 
-console.log(testfucksum(1,3));
+function testEifElse(a,b) {
+    var x;
+    if (a<b) {x=a+b;}
+    else if (a>b) {x=a-b;}
+    else {x=a*b;}
+    return x;
+}
+
+
+console.log(testEifElse(9,9))
