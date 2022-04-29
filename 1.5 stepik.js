@@ -57,4 +57,9 @@ function testCase(a) {
     return x;
 }
 
-console.log(testCase(6));
+function VelikijDen() {
+    var a = 'Hello';
+    return a;
+}
+
+console.log(VelikijDen());
