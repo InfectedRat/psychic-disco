@@ -9,6 +9,10 @@ function testfucksum(a, b) {
     return a+b;
 }
 
+function testfucksum(a, b) {
+    return a+b;
+}
+
 function testEifElse(a,b) {
     var x;
     if (a<b) {x=a+b;}
@@ -56,10 +60,3 @@ function testCase(a) {
         }
     return x;
 }
-
-function VelikijDen() {
-    var a = 'Hello';
-    return a;
-}
-
-console.log(VelikijDen());
