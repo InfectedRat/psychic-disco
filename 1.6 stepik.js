@@ -24,7 +24,5 @@ function testWhile(a) {
 
 
 
-
 console.log(testWhile(5))
 
-1
