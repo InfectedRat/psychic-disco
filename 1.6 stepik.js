@@ -23,6 +23,10 @@ function testWhile(a) {
 }
 
 
-
 console.log(testWhile(5))
 
+function printText() {                   
+    document.write("Hello World!");      
+  };
+
+  printText();
