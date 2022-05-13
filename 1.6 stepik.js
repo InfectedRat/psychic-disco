@@ -7,7 +7,7 @@ function testFactorial(a) {
     return x;
 }
 
-console.log(testFactorial(9));
+console.log(testFactorial(4));
 
 
 function testWhile(a) {
