@@ -50,3 +50,7 @@ function test_line(n)
 console.log(test_line(9))
 
 var person = new Object();
+
+console.log(func());
+
+function test_line(n)
