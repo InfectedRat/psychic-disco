@@ -62,3 +62,13 @@ var person = new Object();
 console.log(func());
 
 function test_line(n)
+
+function Person(name, age, year) {
+  this.name = name;
+  this.age = age;
+  this.year = year;
+}
+
+var employee1 = new Person("Ivan","25","2017");
+var employee2 = new Person("Olga","21","2016");
+var employee3 = new Person("Oleg","32","2010");
