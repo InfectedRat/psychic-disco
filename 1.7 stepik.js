@@ -72,3 +72,9 @@ function Person(name, age, year) {
 var employee1 = new Person("Ivan","25","2017");
 var employee2 = new Person("Olga","21","2016");
 var employee3 = new Person("Oleg","32","2010");
+
+var Person = {
+   name : "Ivan",
+   age : 25,
+   hiredYear : 2017
+  }
