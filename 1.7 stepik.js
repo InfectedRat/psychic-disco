@@ -78,3 +78,9 @@ var Person = {
    age : 25,
    hiredYear : 2017
   }
+
+  var Person = {
+     name : "Ivan",
+     age : 25,
+     hiredYear : 2017
+    }
