@@ -84,3 +84,18 @@ var Person = {
      age : 25,
      hiredYear : 2017
     }
+
+    console.log(Person.age);
+
+
+    var person = {
+        name : "Ivan",
+        age : 25,
+        hiredYear : 2017
+      }
+      
+      person.sayName = function() {
+        console.log("My name is " + this.name);
+      }
+
+      person.sayName();
