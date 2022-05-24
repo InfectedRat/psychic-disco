@@ -19,3 +19,14 @@ testStr('sss','fgfdgdfgdfg');
 
 var cat = "Cat";
 console.log(cat.length); 
+
+function testStr(str, n) {
+    console.log(str.charAt(n-1));
+}
+
+testStr('Cat', );
+
+
+
+
+
