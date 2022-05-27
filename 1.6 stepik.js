@@ -22,7 +22,6 @@ function testWhile(a) {
     return x;
 }
 
-
 console.log(testWhile(5))
 
 function printText() {                   
